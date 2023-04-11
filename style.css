@@ -1,0 +1,21 @@
+h1 {
+  color: blueviolet;
+}
+
+body{
+    background-color: aquamarine;
+}
+.container-map{
+    /* position: relative; */
+    display: flex;
+}
+
+#map{
+    width: 100%;
+    height: 500px;
+    /* min-height: 100%; */
+    background-color: blue;
+    text-align: center;
+
+  /* transform: translate(-50%, -50%); */
+}
